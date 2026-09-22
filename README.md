@@ -47,4 +47,5 @@ A curated list for Ponytail, the coding-agent skill that appeared on GitHub unde
 
 Pull requests welcome for links that exist and say what you claim; unsourced entries are removed.
 
+
 _Last reviewed: 2026-09-22_
